@@ -42,7 +42,7 @@ main {
   padding: 100px 27px;
   color: white;
   /* background-image: url(./images/react-icon-large.png);*/
-  background-image: url(/Users/priyankaraju/repos/react-infosite/info-site/public/logo512.png);
+  background-image: url(/Users/priyankaraju/repos/react-infosite/info-site/src/images/logo512.png);
   background-repeat: no-repeat;
   background-position: right 75%;
 }
